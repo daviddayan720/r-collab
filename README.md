@@ -1,4 +1,4 @@
 # r-collab
 
-# Kyle is here now. Self-sabotage
-## AHHHHHHHH
+# Kyle is here now and he is very welcome!
+# Merge conflict.
